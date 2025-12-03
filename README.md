@@ -126,3 +126,4 @@ To convert this to latitude/longitude, you can use `dataset/convertarg.go`:
 ---
 
 #### 4. Issue 提交规范
+为便于定位问题和跟踪需求，提交 Issue 时建议遵循以下规则：
