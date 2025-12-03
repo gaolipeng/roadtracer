@@ -57,3 +57,4 @@ To convert this to latitude/longitude, you can use `dataset/convertarg.go`:
 
 ### 贡献指南（Contribution Guide）
 #### 1. 外部开发者如何贡献
+- **Fork 仓库**：在 GitHub/GitLab 上 Fork 本项目到你自己的账号下。 
