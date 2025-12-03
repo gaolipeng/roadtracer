@@ -122,3 +122,7 @@ To convert this to latitude/longitude, you can use `dataset/convertarg.go`:
   ## 其他说明
   - 如有兼容性变更、迁移脚本或部署注意事项，请在此说明。
   ```
+
+---
+
+#### 4. Issue 提交规范
