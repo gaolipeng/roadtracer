@@ -136,3 +136,5 @@ To convert this to latitude/longitude, you can use `dataset/convertarg.go`:
   - 简洁且能体现问题核心，例如：  
     - `bug: 用户登录接口返回 500 错误`  
     - `feature: 希望支持音频转文本功能`  
+
+- **Issue 内容模板**
