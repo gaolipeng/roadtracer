@@ -177,3 +177,4 @@ To convert this to latitude/longitude, you can use `dataset/convertarg.go`:
 
 ### 下一步工作计划
 1.为督促用户按时阅读，将阅读与打卡功能相关联，用户可以个性选择读书计划，书籍自动分成对应章节，用户完成当日计划，即可打卡。
+2.修补bug，优化用户体验，如增加分享样式等
