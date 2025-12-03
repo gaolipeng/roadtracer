@@ -94,3 +94,10 @@ To convert this to latitude/longitude, you can use `dataset/convertarg.go`:
 
 #### 3. Pull Request 描述格式规范
 建议 PR 的标题与描述遵循统一格式，便于 Review 和后期追踪。
+
+- **PR 标题格式**
+
+  推荐结构：`[类型] 简要说明`，例如：  
+  - `[feat] 新增用户语音上传接口`  
+  - `[fix] 修复社区列表接口分页错误`  
+  - `[docs] 完善 README 贡献说明`  
