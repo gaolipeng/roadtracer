@@ -72,3 +72,6 @@ To convert this to latitude/longitude, you can use `dataset/convertarg.go`:
 ---
 
 #### 2. 代码规范（Coding Style）
+- **Python 版本与风格**
+  - 使用 Python 3.8+。
+  - 遵循 **PEP8** 代码风格（推荐使用 `flake8` 或 `ruff` 等工具进行检查）。  
