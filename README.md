@@ -89,3 +89,7 @@ To convert this to latitude/longitude, you can use `dataset/convertarg.go`:
 - **测试**
   - 新功能和重要 Bug 修复，尽量补充或更新对应的单元测试。  
   - 确保 `python manage.py test`（或项目内的测试命令）能通过。 
+
+---
+
+#### 3. Pull Request 描述格式规范
