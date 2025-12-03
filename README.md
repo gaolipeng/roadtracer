@@ -52,3 +52,7 @@ Now you should be able to get a road network graph by running infer.py.
 To convert this to latitude/longitude, you can use `dataset/convertarg.go`:
 
 	go run convertarg.go YOUR_REGION_LABEL frompix out.graph out.lonlat.graph
+
+
+
+### 贡献指南（Contribution Guide）
