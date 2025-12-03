@@ -101,3 +101,5 @@ To convert this to latitude/longitude, you can use `dataset/convertarg.go`:
   - `[feat] 新增用户语音上传接口`  
   - `[fix] 修复社区列表接口分页错误`  
   - `[docs] 完善 README 贡献说明`  
+
+- **PR 描述模板**
