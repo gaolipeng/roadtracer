@@ -1,4 +1,5 @@
 RoadTracer Code
+RoadTracer 是一个从航拍图像中提取道路网络的数据集。 它由大量高分辨率卫星图像和地面实况道路网络图组成，覆盖了六个国家的四十个城市的城市核心。 对于每个城市，数据集覆盖了市中心周围约24 平方公里的区域。 卫星图像来自谷歌，分辨率为60 厘米/像素，道路网络来自OSM。
 ===============
 
 This is the code for ["RoadTracer: Automatic Extraction of Road Networks from Aerial Images"](https://roadmaps.csail.mit.edu/roadtracer/).
